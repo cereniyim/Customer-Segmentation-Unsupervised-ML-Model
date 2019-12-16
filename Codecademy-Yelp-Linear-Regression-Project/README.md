@@ -1,2 +1,1 @@
-I built a Linear Regression ML Model on Yelp Data as part of CodeAcademy Data Science course.
-Model is built for predicting a restaurant's Yelp Rating based on some features.
+As a capstone project for Data Science with Python course on Codecademy, I built a Linear Regression ML Model on Yelp Data based on the restaurant features.
