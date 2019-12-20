@@ -1,8 +1,9 @@
-This notebook aims to predict a building's energy consumption over 2017 and 2018 using the data from 2016 in 4 different consumpiton categories (electricity, chilled water, steam, hot water) using ASHRAE data, which is our problem statement as well.
+This notebook aims to predict a building's energy consumption over 2017 and 2018 using the data from 2016 in 4 different consumpiton categories (electricity, chilled water, steam, hot water) using [ASHRAE](https://www.ashrae.org/) data, which is our problem statement as well.
 
 This is a supervised machine learning model, meaning based on the columns available in the datasets and data from 2016, we are going to train the model to predict an energy consumption of a building in each category. Since, consumption values are labeled as meter_reading and they are continuous, we are going to apply regression techniques to generate predictions on meter_reading.
 
 It is a highly debated and popular competition in Kaggle currently, however my main motivation is to contribute to make energy-efficient buildings by estimating its energy consumption. It seemed like a good start to save our energy for future!
+With the current light GBM model, the root mean squared log error, the evlauation metric in this competition is 2.77.
 
 There will be 3 notebooks covering the complete machine learning building pipeline. Original links to kernels can be found below as well as the content for each notebook.
 
