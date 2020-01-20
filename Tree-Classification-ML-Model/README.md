@@ -1,3 +1,5 @@
+The summary and the relevant blog post for this project can be found [here](https://medium.com/p/predicting-forest-cover-types-with-the-machine-learning-workflow-1f6f049bf4df?source=email-287e9909d3b5--writer.postDistributed&sk=d740915895b002b7424703d60a80d2f3)
+
 This notebook aims to classify 7 different types of trees and give some clues about where to find them. I built an extra random forest classifier to detect fantastic trees in he Roosevelt National Forest of northern Colorado. I was able to classify the test set consisting 500.000 rows with 78% acuracy, placing this kernel among 28% among all competitors.
 
 The notebook will follow the workflow suggested by Will Koehrsen in this [article](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420).
