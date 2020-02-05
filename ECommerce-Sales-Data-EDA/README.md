@@ -7,4 +7,4 @@ Analysis is done with Python 2.7 and with the following libraries:
 * matplotlib
 * ipywidgets
 
-To view it in the nbviewer, click (here)[https://nbviewer.jupyter.org/github/cereniyim/Data-Science-Projects/blob/master/ECommerce-Sales-Data-EDA/Fashion_Retailer_Orders_Analysis.ipynb]
+To view it in the nbviewer, click [here](https://nbviewer.jupyter.org/github/cereniyim/Data-Science-Projects/blob/master/ECommerce-Sales-Data-EDA/Fashion_Retailer_Orders_Analysis.ipynb)
