@@ -10,4 +10,4 @@ The workflow of the project is as follows:
 
 Article of the project "Customer Segmentation with Machine Learning" can be read [here](https://towardsdatascience.com/customer-segmentation-with-machine-learning-a0ac8c3d4d84?source=friends_link&sk=91a45f28699eda78766335947bed7044)!
 
-The notebook can be viewed in the nbviewer [here](https://nbviewer.jupyter.org/github/cereniyim/Data-Science-Projects/blob/41ea9bc14a567ace2a2e1ac82ab377ef12f983ae/Customer-Segmentation-Unsupervised-ML-Model/Customer_Segmentation_Kmeans_Clustering.ipynb) with plotly plots.
+The notebook can be viewed in the nbviewer [here](https://nbviewer.jupyter.org/github/cereniyim/Customer-Segmentation-Unsupervised-ML-Model/blob/3c4374dd16861ea365cdf468bd9b2c28a964f4e3/Customer_Segmentation_Kmeans_Clustering.ipynb) with interactive plotly plots.
